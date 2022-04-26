@@ -46,7 +46,7 @@ nav ul li a:hover{
     color:var(--logocolor);
 }
 
-/* home toggle-buttn */
+/* home toggle-buttn 
 
 .toggle-button{
     position: absolute;
@@ -69,12 +69,12 @@ nav ul li a:hover{
     .toggle-button{
         display: flex;
     }
-    .nav .ul li{
+    .nav .nav-links li {
         display: none;
     }
 }
 
-/* toggle end */
+toggle end */
 
 .detel{
     margin-left: 8%;
