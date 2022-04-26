@@ -511,7 +511,7 @@ color: var(--bbg);
     }
 
     .images {
-        width: 30%;
+        width: 60%;
         height: 30%;
      margin-bottom: 0px;
      margin-top: 20px;
@@ -519,16 +519,17 @@ color: var(--bbg);
 
     }
     .images .img{
-       width: 20x;
+       width: 20px;
        height: 100px;
+       
     }
     
     .social{
-height: 20px;
-width: 50px;
-margin-bottom: 100px;
+height: 10%;
+width: 20px;
+margin-bottom: 40%w;
 display: flex;
-margin-left: 30%;
+margin-left: 40%;
     }
     
     .social a{
