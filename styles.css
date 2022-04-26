@@ -491,7 +491,7 @@ color: var(--bbg);
 
     .hero{ 
         width: 112%;
-        height: 110vh;
+        height: 120vh;
         background: #Eaf4fc;
     }
     nav{
@@ -511,10 +511,11 @@ color: var(--bbg);
     }
 
     .images {
-        width: 60%;
+        width: 30%;
+        height: 30%;
      margin-bottom: 0px;
      margin-top: 20px;
-     margin-left: 50px;
+     margin-left: 20px;
 
     }
     .images .img{
@@ -541,28 +542,45 @@ margin-left: 30%;
     /* about me */
 
     
+    
+    .acontent{
+        width: 100%;
+        height: 60vh;  
+    }
     .acontent .qp {
         margin-top: 100px;
         font-size:15px;
         color: var(--bbg);
         margin-right: 10px;
         font-weight: 500;
+        margin-left: 20px;
     }
     .acontent .info{
         margin-top: 40px;
         font-size: 15px;
         color: var(--bbg);
+        margin-left: 20px;
+
     }
     .aimage .title h1{
         margin-top: 15px;
-        margin-left:15%;
+        margin-left:10%;
         text-align:start;
         font-weight: 600;
         text-transform: uppercase;
-        font-size: 30px;
+        font-size: 25px;
         font-family: sans-serif;
         color: var(--bbg);
         
+    }
+    .aimage{
+        width: 100%;
+        height: 50vh;
+        padding-right: 20px;
+    }
+    .aimage .image{
+        height: 10x;
+        width: px
     }
     .cv{
         border: 1px solid var(--logocolor);
@@ -594,6 +612,20 @@ margin-left: 30%;
         bottom: 10px;
     } */
     /* skills */
+    .sk{
+        width: 100%;
+        height: 50vh;
+        background-color:var(--bbg;
+        float: left;
+    }
+    .projects{
+        position: relative;
+        width: 100%;
+        float: left;
+        height: 50vh;
+        background-color:var(--bbg);
+    }
+
     .sk .title h1
     {
         margin-top: 20px;
