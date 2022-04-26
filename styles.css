@@ -491,7 +491,7 @@ color: var(--bbg);
 
     .hero{ 
         width: 112%;
-        height: 120vh;
+        height: 110vh;
         background: #Eaf4fc;
     }
     nav{
@@ -511,13 +511,14 @@ color: var(--bbg);
     }
 
     .images {
-        width: 10px;
+        width: 60%;
      margin-bottom: 0px;
      margin-top: 20px;
+     margin-left: 50px;
 
     }
     .images .img{
-       width: 50x;
+       width: 20x;
        height: 100px;
     }
     
