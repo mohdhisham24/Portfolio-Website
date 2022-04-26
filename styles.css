@@ -46,6 +46,36 @@ nav ul li a:hover{
     color:var(--logocolor);
 }
 
+/* home toggle-buttn */
+
+.toggle-button{
+    position: absolute;
+    top: 0.75rem;
+    right: 1rem;
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30px;
+    height: 21px;
+}
+.toggle-button .bar{
+    height: 3px;
+    width: 100%;
+    background-color: black;
+    border-radius: 10px;
+
+}
+@media(max-width:400px){
+    .toggle-button{
+        display: flex;
+    }
+    .nav .ul li{
+        display: none;
+    }
+}
+
+/* toggle end */
+
 .detel{
     margin-left: 8%;
     margin-top: 10%;
